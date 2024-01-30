@@ -482,3 +482,12 @@ A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
 [Parent 4980, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
 [Parent 4980, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
 JavaScript error: resource://gre/modules/Sqlite.jsm, line 996: Error: Connection is not open.
+1706153619062	geckodriver	INFO	Listening on 127.0.0.1:49200
+1706153620825	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "49201" "-no-remote" "-profile" "C:\\Users\\USER\\AppData\\Local\\Temp\\rust_mozprofileErJE4f"
+1706153648755	Marionette	INFO	Marionette enabled
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\USER\\AppData\\Local\\Temp\\rust_mozprofileErJE4f\\search.json.mozlz4", (void 0)))
+console.warn: TopSitesFeed: Contile provided more links than permitted. (3 received, limit is 2)
+DevTools listening on ws://localhost:49201/devtools/browser/78bb7e0c-33b5-4aa0-ab6e-c3cbce8cb72e
+1706153719229	Marionette	INFO	Listening on port 49206

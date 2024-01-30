@@ -1,0 +1,9 @@
+[32mINFO    [0m Test_001:test_PurchaseItem.py:16  test_additem is started
+[32mINFO    [0m Test_001:test_PurchaseItem.py:18  Browser is opening 
+[32mINFO    [0m Test_001:test_PurchaseItem.py:20  Going to https://demoblaze.com/index.html url
+[32mINFO    [0m Test_001:test_PurchaseItem.py:25  Clicking on phone tab
+[32mINFO    [0m Test_001:test_PurchaseItem.py:27 Clicking on phone samsung 
+[32mINFO    [0m Test_001:test_PurchaseItem.py:29 Clicking addTocart button 
+[32mINFO    [0m Test_001:test_PurchaseItem.py:32 Clicking home  button 
+[32mINFO    [0m Test_001:test_PurchaseItem.py:34 Clicking on monitor 
+[32mINFO    [0m Test_001:test_PurchaseItem.py:36 Clicking  on Asusu

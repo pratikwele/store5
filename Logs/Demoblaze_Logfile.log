@@ -1,0 +1,153 @@
+2024-01-28 13:01:29,381 - INFO - Test_001 - test_additem -  test_additem is started
+2024-01-28 13:01:29,613 - INFO - Test_001 - test_additem -  Browser is opening 
+2024-01-28 13:02:06,998 - INFO - Test_001 - test_additem -  Going to https://demoblaze.com/index.html url
+2024-01-28 13:02:22,320 - INFO - Test_001 - test_additem -  Clicking on phone tab
+2024-01-28 13:02:41,261 - INFO - Test_001 - test_additem - Clicking on phone samsung 
+2024-01-28 13:02:47,818 - INFO - Test_001 - test_additem - Clicking addTocart button 
+2024-01-28 13:03:03,271 - INFO - Test_001 - test_additem - Clicking home  button 
+2024-01-28 13:03:04,050 - INFO - Test_001 - test_additem - Clicking on monitor 
+2024-01-28 13:03:11,019 - INFO - Test_001 - test_additem - Clicking  on Asusu
+2024-01-28 13:03:17,806 - INFO - Test_001 - test_additem - Clicking addTocart button 
+2024-01-28 13:03:32,043 - INFO - Test_001 - test_additem - Clicking home  button 
+2024-01-28 13:03:32,646 - INFO - Test_001 - test_additem - Clicking  on Laptop
+2024-01-28 13:03:40,436 - INFO - Test_001 - test_additem - Clicking  on Dell
+2024-01-28 13:03:41,465 - INFO - Test_001 - test_additem - Clicking addTocart button 
+2024-01-28 13:03:45,522 - INFO - Test_001 - test_additem - Clicking carturl  
+2024-01-28 13:04:06,736 - INFO - Test_001 - test_additem - Clicking Place order button 
+2024-01-28 13:04:17,121 - INFO - Test_001 - test_additem -  Entering name 
+2024-01-28 13:04:19,744 - INFO - Test_001 - test_additem -  Entering country
+2024-01-28 13:04:20,195 - INFO - Test_001 - test_additem -  Entering city 
+2024-01-28 13:04:21,105 - INFO - Test_001 - test_additem -  Entering  credit card detail 
+2024-01-28 13:04:22,619 - INFO - Test_001 - test_additem -  Entering  the month 
+2024-01-28 13:04:24,650 - INFO - Test_001 - test_additem -  Entering  year 
+2024-01-28 13:04:27,660 - INFO - Test_001 - test_additem -  Clcking on purchase button 
+2024-01-28 13:04:29,100 - INFO - Test_001 - test_additem -  test_additem is failed 
+2024-01-28 17:03:06,590 - INFO - Test_001 - test_additem -  test_additem is started
+2024-01-28 17:03:06,888 - INFO - Test_001 - test_additem -  Browser is opening 
+2024-01-28 17:03:33,074 - INFO - Test_001 - test_additem -  Going to https://demoblaze.com/index.html url
+2024-01-28 17:03:53,097 - INFO - Test_001 - test_additem -  Clicking on phone tab
+2024-01-28 17:04:01,212 - INFO - Test_001 - test_additem - Clicking on phone samsung 
+2024-01-28 17:04:09,078 - INFO - Test_001 - test_additem - Clicking addTocart button 
+2024-01-28 17:04:17,528 - INFO - Test_001 - test_additem - Clicking home  button 
+2024-01-28 17:04:17,779 - INFO - Test_001 - test_additem - Clicking on monitor 
+2024-01-28 17:04:24,067 - INFO - Test_001 - test_additem - Clicking  on Asusu
+2024-01-28 17:04:26,428 - INFO - Test_001 - test_additem - Clicking addTocart button 
+2024-01-28 17:04:31,661 - INFO - Test_001 - test_additem - Clicking home  button 
+2024-01-28 17:04:32,289 - INFO - Test_001 - test_additem - Clicking  on Laptop
+2024-01-28 17:04:37,279 - INFO - Test_001 - test_additem - Clicking  on Dell
+2024-01-28 17:04:41,190 - INFO - Test_001 - test_additem - Clicking addTocart button 
+2024-01-28 17:04:46,824 - INFO - Test_001 - test_additem - Clicking carturl  
+2024-01-28 17:05:04,702 - INFO - Test_001 - test_additem - Clicking Place order button 
+2024-01-28 17:05:13,288 - INFO - Test_001 - test_additem -  Entering name 
+2024-01-28 17:05:14,523 - INFO - Test_001 - test_additem -  Entering country
+2024-01-28 17:05:15,575 - INFO - Test_001 - test_additem -  Entering city 
+2024-01-28 17:05:16,216 - INFO - Test_001 - test_additem -  Entering  credit card detail 
+2024-01-28 17:05:16,955 - INFO - Test_001 - test_additem -  Entering  the month 
+2024-01-28 17:05:17,810 - INFO - Test_001 - test_additem -  Entering  year 
+2024-01-28 17:05:19,960 - INFO - Test_001 - test_additem -  Clcking on purchase button 
+2024-01-28 17:05:20,234 - INFO - Test_001 - test_additem -  test_additem is failed 
+2024-01-28 20:19:34,583 - INFO - Test_001 - test_additem -  test_additem is started
+2024-01-28 20:19:34,650 - INFO - Test_001 - test_additem -  Browser is opening 
+2024-01-28 20:19:54,411 - INFO - Test_001 - test_additem -  Going to https://demoblaze.com/index.html url
+2024-01-28 20:20:08,992 - INFO - Test_001 - test_additem -  Clicking on phone tab
+2024-01-28 20:20:22,102 - INFO - Test_001 - test_additem - Clicking on phone samsung 
+2024-01-28 20:20:31,798 - INFO - Test_001 - test_additem - Clicking addTocart button 
+2024-01-28 20:20:48,258 - INFO - Test_001 - test_additem - Clicking home  button 
+2024-01-28 20:20:49,028 - INFO - Test_001 - test_additem - Clicking on monitor 
+2024-01-28 20:20:54,257 - INFO - Test_001 - test_additem - Clicking  on Asusu
+2024-01-28 20:20:58,538 - INFO - Test_001 - test_additem - Clicking addTocart button 
+2024-01-28 20:21:03,493 - INFO - Test_001 - test_additem - Clicking home  button 
+2024-01-28 20:21:03,942 - INFO - Test_001 - test_additem - Clicking  on Laptop
+2024-01-28 20:21:09,160 - INFO - Test_001 - test_additem - Clicking  on Dell
+2024-01-28 20:21:11,372 - INFO - Test_001 - test_additem - Clicking addTocart button 
+2024-01-28 20:21:17,107 - INFO - Test_001 - test_additem - Clicking carturl  
+2024-01-28 20:21:24,648 - INFO - Test_001 - test_additem - Clicking Place order button 
+2024-01-28 20:21:33,148 - INFO - Test_001 - test_additem -  Entering name 
+2024-01-28 20:21:34,651 - INFO - Test_001 - test_additem -  Entering country
+2024-01-28 20:21:35,280 - INFO - Test_001 - test_additem -  Entering city 
+2024-01-28 20:21:36,324 - INFO - Test_001 - test_additem -  Entering  credit card detail 
+2024-01-28 20:21:37,067 - INFO - Test_001 - test_additem -  Entering  the month 
+2024-01-28 20:21:38,761 - INFO - Test_001 - test_additem -  Entering  year 
+2024-01-28 20:21:40,252 - INFO - Test_001 - test_additem -  Clcking on purchase button 
+2024-01-28 20:21:40,485 - INFO - Test_001 - test_additem -  test_additem is failed 
+2024-01-28 20:35:23,276 - INFO - Test_001 - test_additem -  test_additem is started
+2024-01-28 20:35:23,968 - INFO - Test_001 - test_additem -  Browser is opening 
+2024-01-28 20:36:06,962 - INFO - Test_001 - test_additem -  Going to https://demoblaze.com/index.html url
+2024-01-28 20:36:23,803 - INFO - Test_001 - test_additem -  Clicking on phone tab
+2024-01-28 20:36:33,858 - INFO - Test_001 - test_additem - Clicking on phone samsung 
+2024-01-28 20:36:43,303 - INFO - Test_001 - test_additem - Clicking addTocart button 
+2024-01-28 20:36:53,266 - INFO - Test_001 - test_additem - Clicking home  button 
+2024-01-28 20:36:53,618 - INFO - Test_001 - test_additem - Clicking on monitor 
+2024-01-28 20:37:00,598 - INFO - Test_001 - test_additem - Clicking  on Asusu
+2024-01-29 17:23:06,670 - INFO - Test_001 - test_additem -  test_additem is started
+2024-01-29 17:23:06,780 - INFO - Test_001 - test_additem -  Browser is opening 
+2024-01-29 17:23:38,187 - INFO - Test_001 - test_additem -  Going to https://demoblaze.com/index.html url
+2024-01-29 17:23:50,470 - INFO - Test_001 - test_additem -  Clicking on phone tab
+2024-01-29 17:24:11,390 - INFO - Test_001 - test_additem - Clicking on phone samsung 
+2024-01-29 17:24:23,403 - INFO - Test_001 - test_additem - Clicking addTocart button 
+2024-01-29 17:24:50,782 - INFO - Test_001 - test_additem - Clicking home  button 
+2024-01-29 17:24:51,367 - INFO - Test_001 - test_additem - Clicking on monitor 
+2024-01-29 17:25:03,172 - INFO - Test_001 - test_additem - Clicking  on Asusu
+2024-01-29 17:25:55,922 - INFO - Test_001 - test_additem - Clicking addTocart button 
+2024-01-29 17:26:09,061 - INFO - Test_001 - test_additem - Clicking home  button 
+2024-01-29 17:26:09,336 - INFO - Test_001 - test_additem - Clicking  on Laptop
+2024-01-29 17:26:15,576 - INFO - Test_001 - test_additem - Clicking  on Dell
+2024-01-29 17:26:22,556 - INFO - Test_001 - test_additem - Clicking addTocart button 
+2024-01-29 17:26:28,132 - INFO - Test_001 - test_additem - Clicking carturl  
+2024-01-29 17:26:41,395 - INFO - Test_001 - test_additem - Clicking Place order button 
+2024-01-29 17:26:50,618 - INFO - Test_001 - test_additem -  Entering name 
+2024-01-29 17:26:50,837 - INFO - Test_001 - test_additem -  Entering country
+2024-01-29 17:26:50,878 - INFO - Test_001 - test_additem -  Entering city 
+2024-01-29 17:26:50,913 - INFO - Test_001 - test_additem -  Entering  credit card detail 
+2024-01-29 17:26:50,947 - INFO - Test_001 - test_additem -  Entering  the month 
+2024-01-29 17:26:51,051 - INFO - Test_001 - test_additem -  Entering  year 
+2024-01-29 17:26:53,446 - INFO - Test_001 - test_additem -  Clcking on purchase button 
+2024-01-29 17:26:53,479 - INFO - Test_001 - test_additem -  test_additem is failed 
+2024-01-29 18:06:50,050 - INFO - Test_001 - test_additem -  test_additem is started
+2024-01-29 18:06:50,096 - INFO - Test_001 - test_additem -  Browser is opening 
+2024-01-29 18:07:42,317 - INFO - Test_001 - test_additem -  Going to https://demoblaze.com/index.html url
+2024-01-29 18:07:53,433 - INFO - Test_001 - test_additem -  Clicking on phone tab
+2024-01-29 18:08:12,413 - INFO - Test_001 - test_additem - Clicking on phone samsung 
+2024-01-29 18:08:23,732 - INFO - Test_001 - test_additem - Clicking addTocart button 
+2024-01-29 18:08:46,851 - INFO - Test_001 - test_additem - Clicking home  button 
+2024-01-29 18:08:47,669 - INFO - Test_001 - test_additem - Clicking on monitor 
+2024-01-29 18:08:56,275 - INFO - Test_001 - test_additem - Clicking  on Asusu
+2024-01-29 18:09:02,898 - INFO - Test_001 - test_additem - Clicking addTocart button 
+2024-01-29 18:09:09,295 - INFO - Test_001 - test_additem - Clicking home  button 
+2024-01-29 18:09:10,363 - INFO - Test_001 - test_additem - Clicking  on Laptop
+2024-01-29 18:09:19,447 - INFO - Test_001 - test_additem - Clicking  on Dell
+2024-01-29 18:09:27,678 - INFO - Test_001 - test_additem - Clicking addTocart button 
+2024-01-29 18:09:43,096 - INFO - Test_001 - test_additem - Clicking carturl  
+2024-01-29 18:10:08,527 - INFO - Test_001 - test_additem - Clicking Place order button 
+2024-01-29 18:10:20,862 - INFO - Test_001 - test_additem -  Entering name 
+2024-01-29 18:10:21,752 - INFO - Test_001 - test_additem -  Entering country
+2024-01-29 18:10:22,899 - INFO - Test_001 - test_additem -  Entering city 
+2024-01-29 18:10:22,933 - INFO - Test_001 - test_additem -  Entering  credit card detail 
+2024-01-29 18:10:22,979 - INFO - Test_001 - test_additem -  Entering  the month 
+2024-01-29 18:10:23,237 - INFO - Test_001 - test_additem -  Entering  year 
+2024-01-29 18:10:26,352 - INFO - Test_001 - test_additem -  Clcking on purchase button 
+2024-01-29 18:10:26,403 - INFO - Test_001 - test_additem -  test_additem is failed 
+2024-01-30 20:42:57,617 - INFO - Test_001 - test_additem -  test_additem is started
+2024-01-30 20:42:57,657 - INFO - Test_001 - test_additem -  Browser is opening 
+2024-01-30 20:43:08,421 - INFO - Test_001 - test_additem -  Going to https://demoblaze.com/index.html url
+2024-01-30 20:43:13,376 - INFO - Test_001 - test_additem -  Clicking on phone tab
+2024-01-30 20:43:17,907 - INFO - Test_001 - test_additem - Clicking on phone samsung 
+2024-01-30 20:43:20,529 - INFO - Test_001 - test_additem - Clicking addTocart button 
+2024-01-30 20:43:27,835 - INFO - Test_001 - test_additem - Clicking home  button 
+2024-01-30 20:43:28,055 - INFO - Test_001 - test_additem - Clicking on monitor 
+2024-01-30 20:43:31,760 - INFO - Test_001 - test_additem - Clicking  on Asusu
+2024-01-30 20:43:35,254 - INFO - Test_001 - test_additem - Clicking addTocart button 
+2024-01-30 20:43:42,427 - INFO - Test_001 - test_additem - Clicking home  button 
+2024-01-30 20:43:43,967 - INFO - Test_001 - test_additem - Clicking  on Laptop
+2024-01-30 20:43:48,172 - INFO - Test_001 - test_additem - Clicking  on Dell
+2024-01-30 20:43:53,455 - INFO - Test_001 - test_additem - Clicking addTocart button 
+2024-01-30 20:43:58,036 - INFO - Test_001 - test_additem - Clicking carturl  
+2024-01-30 20:56:07,181 - INFO - Test_001 - test_additem - Clicking Place order button 
+2024-01-30 20:56:14,126 - INFO - Test_001 - test_additem -  Entering name 
+2024-01-30 20:56:14,296 - INFO - Test_001 - test_additem -  Entering country
+2024-01-30 20:56:14,466 - INFO - Test_001 - test_additem -  Entering city 
+2024-01-30 20:56:14,546 - INFO - Test_001 - test_additem -  Entering  credit card detail 
+2024-01-30 20:56:14,656 - INFO - Test_001 - test_additem -  Entering  the month 
+2024-01-30 20:56:14,786 - INFO - Test_001 - test_additem -  Entering  year 
+2024-01-30 20:56:15,565 - INFO - Test_001 - test_additem -  Clcking on purchase button 
+2024-01-30 20:56:15,755 - INFO - Test_001 - test_additem -  test_additem is failed 

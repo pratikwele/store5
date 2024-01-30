@@ -1,0 +1,25 @@
+[33mWARNING [0m selenium.webdriver.common.selenium_manager:selenium_manager.py:133 The version of firefox cannot be detected. Trying with latest driver version
+[32mINFO    [0m Test_001:test_PurchaseItem.py:18  test_additem is started
+[32mINFO    [0m Test_001:test_PurchaseItem.py:20  Browser is opening 
+[32mINFO    [0m Test_001:test_PurchaseItem.py:22  Going to https://demoblaze.com/index.html url
+[32mINFO    [0m Test_001:test_PurchaseItem.py:27  Clicking on phone tab
+[32mINFO    [0m Test_001:test_PurchaseItem.py:29 Clicking on phone samsung 
+[32mINFO    [0m Test_001:test_PurchaseItem.py:31 Clicking addTocart button 
+[32mINFO    [0m Test_001:test_PurchaseItem.py:34 Clicking home  button 
+[32mINFO    [0m Test_001:test_PurchaseItem.py:36 Clicking on monitor 
+[32mINFO    [0m Test_001:test_PurchaseItem.py:38 Clicking  on Asusu
+[32mINFO    [0m Test_001:test_PurchaseItem.py:40 Clicking addTocart button 
+[32mINFO    [0m Test_001:test_PurchaseItem.py:43 Clicking home  button 
+[32mINFO    [0m Test_001:test_PurchaseItem.py:45 Clicking  on Laptop
+[32mINFO    [0m Test_001:test_PurchaseItem.py:47 Clicking  on Dell
+[32mINFO    [0m Test_001:test_PurchaseItem.py:49 Clicking addTocart button 
+[32mINFO    [0m Test_001:test_PurchaseItem.py:52 Clicking carturl  
+[32mINFO    [0m Test_001:test_PurchaseItem.py:59 Clicking Place order button 
+[32mINFO    [0m Test_001:test_PurchaseItem.py:65  Entering name 
+[32mINFO    [0m Test_001:test_PurchaseItem.py:67  Entering country
+[32mINFO    [0m Test_001:test_PurchaseItem.py:69  Entering city 
+[32mINFO    [0m Test_001:test_PurchaseItem.py:71  Entering  credit card detail 
+[32mINFO    [0m Test_001:test_PurchaseItem.py:73  Entering  the month 
+[32mINFO    [0m Test_001:test_PurchaseItem.py:75  Entering  year 
+[32mINFO    [0m Test_001:test_PurchaseItem.py:77  Clcking on purchase button 
+[32mINFO    [0m Test_001:test_PurchaseItem.py:82  test_additem is failed

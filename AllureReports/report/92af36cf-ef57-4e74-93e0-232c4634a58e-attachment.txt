@@ -1,0 +1,24 @@
+[32mINFO    [0m Test_001:test_PurchaseItem.py:15  test_additem is started
+[32mINFO    [0m Test_001:test_PurchaseItem.py:17  Browser is opening 
+[32mINFO    [0m Test_001:test_PurchaseItem.py:19  Going to https://demoblaze.com/index.html url
+[32mINFO    [0m Test_001:test_PurchaseItem.py:24  Clicking on phone tab
+[32mINFO    [0m Test_001:test_PurchaseItem.py:26 Clicking on phone samsung 
+[32mINFO    [0m Test_001:test_PurchaseItem.py:28 Clicking addTocart button 
+[32mINFO    [0m Test_001:test_PurchaseItem.py:31 Clicking home  button 
+[32mINFO    [0m Test_001:test_PurchaseItem.py:33 Clicking on monitor 
+[32mINFO    [0m Test_001:test_PurchaseItem.py:35 Clicking  on Asusu
+[32mINFO    [0m Test_001:test_PurchaseItem.py:37 Clicking addTocart button 
+[32mINFO    [0m Test_001:test_PurchaseItem.py:40 Clicking home  button 
+[32mINFO    [0m Test_001:test_PurchaseItem.py:42 Clicking  on Laptop
+[32mINFO    [0m Test_001:test_PurchaseItem.py:44 Clicking  on Dell
+[32mINFO    [0m Test_001:test_PurchaseItem.py:46 Clicking addTocart button 
+[32mINFO    [0m Test_001:test_PurchaseItem.py:49 Clicking carturl  
+[32mINFO    [0m Test_001:test_PurchaseItem.py:56 Clicking Place order button 
+[32mINFO    [0m Test_001:test_PurchaseItem.py:62  Entering name 
+[32mINFO    [0m Test_001:test_PurchaseItem.py:64  Entering country
+[32mINFO    [0m Test_001:test_PurchaseItem.py:66  Entering city 
+[32mINFO    [0m Test_001:test_PurchaseItem.py:68  Entering  credit card detail 
+[32mINFO    [0m Test_001:test_PurchaseItem.py:70  Entering  the month 
+[32mINFO    [0m Test_001:test_PurchaseItem.py:72  Entering  year 
+[32mINFO    [0m Test_001:test_PurchaseItem.py:74  Clcking on purchase button 
+[32mINFO    [0m Test_001:test_PurchaseItem.py:79  test_additem is failed
