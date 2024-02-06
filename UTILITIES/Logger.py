@@ -7,7 +7,7 @@ class Logging_Class:
     def log_genarator():
         name = inspect.stack()[1][3]
         logger = logging.getLogger(name)
-        logfile = logging.FileHandler("C:\\Users\\USER\\PycharmProjects\\store\\Logs\\Demoblaze_Logfile.log")
+        logfile = logging.FileHandler("C:\\Users\\USER\\PycharmProjects\\store5\\Logs\\Demoblaze_Logfile.log")
         format = logging.Formatter("%(asctime)s - %(levelname)s - %(name)s - %(funcName)s - %(message)s")
         logfile.setFormatter(format)
         logger.addHandler(logfile)

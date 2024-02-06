@@ -10815,3 +10815,188 @@ A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
 
 ###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_Shutdown) Channel error: cannot send/recv
 
+1707145550099	geckodriver	INFO	Listening on 127.0.0.1:49607
+1707145551840	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "49608" "-no-remote" "-profile" "C:\\Windows\\TEMP\\rust_mozprofileQsScPb"
+1707145569928	Marionette	INFO	Marionette enabled
+[GFX1-]: [D3D11] create swap chain failed: 0x887a0022, 0
+[GFX1-]: Failed to initialize CompositorD3D11 for SWGL: FEATURE_FAILURE_D3D11_SWAP_CHAIN
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Windows\\TEMP\\rust_mozprofileQsScPb\\search.json.mozlz4", (void 0)))
+[GFX1-]: [D3D11] create swap chain failed: 0x887a0022, 0
+[GFX1-]: Failed to initialize CompositorD3D11 for SWGL: FEATURE_FAILURE_D3D11_SWAP_CHAIN
+DevTools listening on ws://localhost:49608/devtools/browser/cddabc76-7fec-4db5-a4a5-60a88bc2ddfe
+1707145598472	Marionette	INFO	Listening on port 49613
+1707145599320	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1707145621510	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://demoblaze.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://demoblaze.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://demoblaze.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://demoblaze.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://demoblaze.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://demoblaze.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://demoblaze.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://demoblaze.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://demoblaze.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://demoblaze.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://demoblaze.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://demoblaze.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://demoblaze.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://demoblaze.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://demoblaze.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://demoblaze.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://demoblaze.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://demoblaze.com"
+1707154467808	geckodriver	INFO	Listening on 127.0.0.1:49952
+1707154470027	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "49953" "-no-remote" "-profile" "C:\\Windows\\TEMP\\rust_mozprofileJnTxiD"
+1707154482962	Marionette	INFO	Marionette enabled
+[GFX1-]: [D3D11] create swap chain failed: 0x887a0022, 0
+[GFX1-]: Failed to initialize CompositorD3D11 for SWGL: FEATURE_FAILURE_D3D11_SWAP_CHAIN
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Windows\\TEMP\\rust_mozprofileJnTxiD\\search.json.mozlz4", (void 0)))
+[GFX1-]: [D3D11] create swap chain failed: 0x887a0022, 0
+[GFX1-]: Failed to initialize CompositorD3D11 for SWGL: FEATURE_FAILURE_D3D11_SWAP_CHAIN
+DevTools listening on ws://localhost:49953/devtools/browser/9ee792cb-4c1b-4ed1-b198-9f19b7daeaa4
+1707154512361	Marionette	INFO	Listening on port 49958
+1707154512684	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://demoblaze.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://demoblaze.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://demoblaze.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://demoblaze.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://demoblaze.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://demoblaze.com"
+JavaScript error: https://demoblaze.com/index.html, line 1: ReferenceError: byCat is not defined
+1707154718610	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1707190788539	geckodriver	INFO	Listening on 127.0.0.1:49373
+1707190792763	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "49374" "-no-remote" "-profile" "C:\\Windows\\TEMP\\rust_mozprofileeluuN2"
+1707190814916	Marionette	INFO	Marionette enabled
+[GFX1-]: [D3D11] create swap chain failed: 0x887a0022, 0
+[GFX1-]: Failed to initialize CompositorD3D11 for SWGL: FEATURE_FAILURE_D3D11_SWAP_CHAIN
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Windows\\TEMP\\rust_mozprofileeluuN2\\search.json.mozlz4", (void 0)))
+[GFX1-]: [D3D11] create swap chain failed: 0x887a0022, 0
+[GFX1-]: Failed to initialize CompositorD3D11 for SWGL: FEATURE_FAILURE_D3D11_SWAP_CHAIN
+DevTools listening on ws://localhost:49374/devtools/browser/b2d60bf6-d14b-4af0-bb66-f245667719bf
+1707190840566	Marionette	INFO	Listening on port 49381
+1707190840852	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://demoblaze.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://demoblaze.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://demoblaze.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://demoblaze.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://demoblaze.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://demoblaze.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://demoblaze.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://demoblaze.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://demoblaze.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://demoblaze.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://demoblaze.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://demoblaze.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://demoblaze.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://demoblaze.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://demoblaze.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://demoblaze.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://demoblaze.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://demoblaze.com"
+
+###!!! [Parent][PBackgroundParent] Error: Send(msgname=PVsync::Msg_Notify) Channel error: cannot send/recv
+
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+1707190906248	Marionette	INFO	Stopped listening on port 49381
+[Parent 3452, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+[Parent 3452, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+[Parent 3452, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1707191003986	geckodriver	INFO	Listening on 127.0.0.1:49494
+1707191005720	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "49495" "-no-remote" "-profile" "C:\\Windows\\TEMP\\rust_mozprofileqrWeng"
+1707191014905	Marionette	INFO	Marionette enabled
+[GFX1-]: [D3D11] create swap chain failed: 0x887a0022, 0
+[GFX1-]: Failed to initialize CompositorD3D11 for SWGL: FEATURE_FAILURE_D3D11_SWAP_CHAIN
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Windows\\TEMP\\rust_mozprofileqrWeng\\search.json.mozlz4", (void 0)))
+[GFX1-]: [D3D11] create swap chain failed: 0x887a0022, 0
+[GFX1-]: Failed to initialize CompositorD3D11 for SWGL: FEATURE_FAILURE_D3D11_SWAP_CHAIN
+DevTools listening on ws://localhost:49495/devtools/browser/42cea7d4-10e2-433e-b901-187143e3f3ca
+1707191037050	Marionette	INFO	Listening on port 49500
+1707191037921	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1707191049061	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://demoblaze.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://demoblaze.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://demoblaze.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://demoblaze.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://demoblaze.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://demoblaze.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://demoblaze.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://demoblaze.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://demoblaze.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://demoblaze.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://demoblaze.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://demoblaze.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://demoblaze.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://demoblaze.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://demoblaze.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://demoblaze.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://demoblaze.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://demoblaze.com"
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+1707191097722	Marionette	INFO	Stopped listening on port 49500
+[GFX1-]: Receive IPC close [GFX1-]: Receive IPC clwoseith reason=Abno witrmalShh reason=AbnorutdownmalShutdown
+
+1707238375100	geckodriver	INFO	Listening on 127.0.0.1:49543
+1707238376887	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "49544" "-no-remote" "-profile" "C:\\Windows\\TEMP\\rust_mozprofileB8HplG"
+1707238388267	Marionette	INFO	Marionette enabled
+[GFX1-]: [D3D11] create swap chain failed: 0x887a0022, 0
+[GFX1-]: Failed to initialize CompositorD3D11 for SWGL: FEATURE_FAILURE_D3D11_SWAP_CHAIN
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Windows\\TEMP\\rust_mozprofileB8HplG\\search.json.mozlz4", (void 0)))
+[GFX1-]: [D3D11] create swap chain failed: 0x887a0022, 0
+[GFX1-]: Failed to initialize CompositorD3D11 for SWGL: FEATURE_FAILURE_D3D11_SWAP_CHAIN
+DevTools listening on ws://localhost:49544/devtools/browser/8850bc45-0b6b-49ca-9844-c3b3b2ae1281
+1707238408941	Marionette	INFO	Listening on port 49549
+1707238409541	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1707238429188	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://demoblaze.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://demoblaze.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://demoblaze.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://demoblaze.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://demoblaze.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://demoblaze.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://demoblaze.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://demoblaze.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://demoblaze.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://demoblaze.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://demoblaze.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://demoblaze.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://demoblaze.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://demoblaze.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://demoblaze.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://demoblaze.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://demoblaze.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://demoblaze.com"
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+1707238499329	Marionette	INFO	Stopped listening on port 49549
+[Parent 5320, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+[Parent 5320, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+console.error: (new Error("SessionFile is closed", "resource:///modules/sessionstore/SessionFile.jsm", 443))
